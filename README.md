@@ -24,8 +24,7 @@ Buatlah sebuah aplikasi web sederhana untuk membuat dan mengelola daftar kontak.
 -	Aplikasi harus memiliki minimal 2 tabel pada database: users dan contacts.
 
 # Deliverables
-Source code aplikasi yang telah di-upload ke GitHub.
-Dokumentasi penggunaan aplikasi dan instalasi yang lengkap.
+- Dokumentasi penggunaan aplikasi dan instalasi yang lengkap.
 
 
 
