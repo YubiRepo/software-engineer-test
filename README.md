@@ -21,7 +21,9 @@ Buatlah sebuah aplikasi web sederhana untuk membuat dan mengelola daftar kontak.
 -	Aplikasi harus mengimplementasikan autentikasi dan authorization menggunakan Laravel.
 -	Aplikasi harus menggunakan Eloquent ORM untuk berinteraksi dengan database.
 -	Aplikasi harus menggunakan Bootstrap atau CSS framework lainnya untuk tampilan.
--	Aplikasi harus memiliki minimal 2 tabel pada database: users dan contacts.##  Deliverables
+-	Aplikasi harus memiliki minimal 2 tabel pada database: users dan contacts.
+
+# Deliverables
 Source code aplikasi yang telah di-upload ke GitHub.
 Dokumentasi penggunaan aplikasi dan instalasi yang lengkap.
 
