@@ -18,6 +18,8 @@ Buatlah sebuah aplikasi web sederhana untuk membuat dan mengelola daftar kontak.
 # Kebutuhan Teknis
 
 -	Aplikasi harus dibuat menggunakan Laravel.
+-	Aplikasi menerapkan sistem client - server communication (Rest API) lebih disukai
+-	Menerapkan frontend dengan VueJs/ReactJS lebih disukai
 -	Aplikasi harus mengimplementasikan autentikasi dan authorization menggunakan Laravel.
 -	Aplikasi harus menggunakan Eloquent ORM untuk berinteraksi dengan database.
 -	Aplikasi harus menggunakan Bootstrap atau CSS framework lainnya untuk tampilan.
