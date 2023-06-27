@@ -1,5 +1,5 @@
 
-# Test Kompetensi Laravel - Fullstack Developer
+# Test Kompetensi - Fullstack Developer
 
 Buatlah sebuah aplikasi web sederhana untuk membuat dan mengelola daftar kontak. Aplikasi ini memungkinkan pengguna untuk menambahkan, mengedit, dan menghapus kontak. Pengguna juga dapat mencari kontak berdasarkan nama atau email.
 
