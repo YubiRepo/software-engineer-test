@@ -24,7 +24,7 @@ Perusahaan ABCD ingin membuat aplikasi yang memiliki kemampuan untuk mencatat or
     | Printed   | Pengolahan warna dengan di print  |
    
 
-4. Color Name Method: informasi prihal identitas warna color method, 1 color method bisa memiliki banyak colorname_method (cukup isi data saja di database, tidak perlu di buat UI nya).
+4. Color Name Method: informasi prihal identitas warna color method, 1 color method bisa memiliki banyak color name method (cukup isi data saja di database, tidak perlu di buat UI nya).
  
     | Name  | Color Method    |
     |-------|-----------------|
